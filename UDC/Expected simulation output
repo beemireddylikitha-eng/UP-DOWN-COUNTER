@@ -1,0 +1,12 @@
+TEST 1 PASSED: Reset
+TEST 2 PASSED: UP count
+TEST 2 PASSED: UP count
+TEST 2 PASSED: UP count
+TEST 3 PASSED: DOWN count
+TEST 3 PASSED: DOWN count
+TEST 4 PASSED: Enable OFF
+TEST 5 PASSED: Enable ON
+TEST 6 PASSED: Reset again
+--------------------------------
+All tests completed.
+--------------------------------
